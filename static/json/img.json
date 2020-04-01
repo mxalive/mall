@@ -1,0 +1,19 @@
+{
+  "imgs": [
+    {
+      "list": "/static/pictures/01.jpg"
+    },
+    {
+      "list": "/static/pictures/02.jpg"
+    },
+    {
+      "list": "/static/pictures/03.jpg"
+    },
+    {
+      "list": "static/pictures/04.jpg"
+    },
+    {
+      "list": "static/pictures/05.jpg"
+    }
+  ]
+}
